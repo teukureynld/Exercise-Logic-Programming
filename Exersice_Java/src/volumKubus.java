@@ -6,11 +6,9 @@ public class volumKubus {
         int sisi2;
         int sisi3;
 
-<<<<<<< HEAD
+
         Scanner input = new Scanner (System.in); 
-=======
-        Scanner input = new Scanner (System.in);
->>>>>>> 76be9ac064e24780c07dd8cab4f651e7041648b9
+
         System.out.println("=====Volum kubus by Mystereyn====");
         System.out.println();
 
