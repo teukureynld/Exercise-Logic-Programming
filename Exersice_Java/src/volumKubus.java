@@ -7,7 +7,7 @@ public class volumKubus {
         int sisi2;
         int sisi3;
 
-        Scanner input = new Scanner (System.in); // salah disini 
+        Scanner input = new Scanner (System.in); 
         System.out.println("=====Volum kubus by Mystereyn====");
         System.out.println();
 
