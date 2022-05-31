@@ -17,5 +17,7 @@ public class SegitigaSamaKaki {
 
         System.out.println();
         System.out.println("Totalnya adalah = " + (alas*tinggi/dibagi2));
+
+        input.close();
     }
 }

@@ -22,6 +22,8 @@ public class volumKubus {
         sisi3 = input.nextInt();
         
         System.out.println("Hasil keseluruhan = " +  (sisi1*sisi2*sisi3));
+
+        input.close();
         
     }
 }

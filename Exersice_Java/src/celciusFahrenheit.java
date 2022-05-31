@@ -4,18 +4,19 @@ public class celciusFahrenheit {
         
         // float untuk membagi , hasilnya akan menjadi pecahan.
         // memakai switch 
-        double Fahrenheit , Celcius;
+        double fahrenheit;
+        double celcius;
 
         Scanner input = new Scanner (System.in);
 
         System.out.print("Input Fahrenheit= " );
-        Fahrenheit = input.nextDouble();
+        fahrenheit = input.nextDouble();
 
         System.out.print("Input Celcius = ");
-        Celcius = input.nextDouble();
+        celcius = input.nextDouble();
 
         
 
-
+        input.close();
     }    
 }
