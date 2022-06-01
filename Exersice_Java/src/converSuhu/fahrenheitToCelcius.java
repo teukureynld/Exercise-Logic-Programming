@@ -13,7 +13,7 @@ public class fahrenheitToCelcius {
         System.out.println();
         
         System.out.print("Input angka untuk di convert : " );
-        f = input.nextFloat();
+        f = input.nextDouble();
 
         c = ((f-32) *5 / 9);  
         System.out.println("Hasil dari fahrenheit ke celcius adalah " + c);
