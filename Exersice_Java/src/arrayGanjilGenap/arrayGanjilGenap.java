@@ -1,3 +1,4 @@
+package arrayGanjilGenap;
 public class arrayGanjilGenap {
     public static void main(String[] args) {
         

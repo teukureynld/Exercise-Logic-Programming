@@ -1,3 +1,4 @@
+package implemenBangunan;
 import java.util.Scanner;
 public class SegitigaSamaKaki {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package implemenBangunan;
 import java.util.Scanner;
 public class volumKubus {
     public static void main(String[] args) {
