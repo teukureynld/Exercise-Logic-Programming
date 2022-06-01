@@ -1,3 +1,4 @@
+package anakAyam;
 public class anakAyamWhile {
     public static void main(String[] args) {
         

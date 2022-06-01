@@ -1,3 +1,4 @@
+package converSuhu;
 import java.util.Scanner;
 public class fahrenheitToCelcius {
 
