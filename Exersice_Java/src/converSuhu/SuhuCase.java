@@ -1,5 +1,5 @@
-import java.util.Scanner;
 package converSuhu;
+import java.util.Scanner;
 
 public class SuhuCase {
     public static void main(String[] args) {
@@ -13,8 +13,13 @@ public class SuhuCase {
         */
 
         float c , r , f , k;
+        
+        Scanner input = new Scanner (System.in);
+        switch(c) { // celcius to reamur
 
 
+
+        input.close();
     }
     
 }
