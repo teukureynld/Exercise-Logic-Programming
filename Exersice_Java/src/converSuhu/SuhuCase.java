@@ -43,7 +43,19 @@ public class SuhuCase {
                 System.out.println("Hasilnya konversinya adalah : " + f);
                 break;
 
+            // Celcius ke kelvin
             case 3 : 
+                System.out.print("Input nilai celcius : " );
+                c = input.nextFloat();
+
+                k = ((c) + 273.15);
+                System.out.println("Hasil dari konservsi ini adalah : " + k);
+                break;
+            
+                //dibawah ini adalah hanya pemanis dari konsep switch
+                //kode default tidak akan dieksekusi ke java, karena kode diatas semua bernilai  true 
+            default :
+                System.out.println("----Done---!");
                 
 
             }
