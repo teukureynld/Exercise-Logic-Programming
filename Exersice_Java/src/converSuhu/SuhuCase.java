@@ -6,9 +6,7 @@ public class SuhuCase {
         
         /*  Celcius to Reamur      R : (c) * 4/5
         *   Celcius to Fahrenheit  [°F] = [°C] × 9/5 + 32
-            Celcius to Kelvin      K : C + 273
-
-            Using Switch Lambda.
+            Celcius to Kelvin      K : C + 273.5
 
         */
         int suhu;
@@ -58,8 +56,7 @@ public class SuhuCase {
                 System.out.println("----Done---!");
                 
 
-            }
+        }
             input.close();
     }
-}
-
+}    
