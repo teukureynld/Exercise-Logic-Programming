@@ -13,6 +13,8 @@ public class MenuUtama {
         pilihMenu = input.nextInt();
 
         System.out.println("=====Pilihan Menu=====");
+
+        //menggunakan switch lambda
         switch(pilihMenu) {
             case 1 -> System.out.println("1. Baca Data");
             case 2 -> System.out.println("2. Cetak Data");
