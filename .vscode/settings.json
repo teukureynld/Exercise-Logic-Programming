@@ -1,3 +1,7 @@
 {
-    "rpc.enabled": false
+    "rpc.enabled": false,
+    "java.project.sourcePaths": [
+        "Exersice_Java/src",
+        "Exersice_Java/MenghitungRataNilaiArray"
+    ]
 }

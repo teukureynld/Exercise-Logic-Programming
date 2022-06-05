@@ -10,7 +10,7 @@ public class anakAyamWhile {
             
         }
         if (i == 1) {
-            System.out.println("Anak ayam turun 1, mati satu tinggal induknya");
+            System.out.println("Anak ayam turun 1 " + "," + "mati satu tinggal induknya" + (i));
         }
     }
 
