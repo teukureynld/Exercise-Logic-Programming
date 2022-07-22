@@ -1,0 +1,43 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SoalNomor2",
+            "request": "launch",
+            "mainClass": "UjianUpm.SoalNomor2",
+            "projectName": "Exercise-Logic-Programming_ade9354e"
+        },
+        {
+            "type": "java",
+            "name": "Launch nyobaLoop",
+            "request": "launch",
+            "mainClass": "UjianUpm.nyobaLoop",
+            "projectName": "Exercise-Logic-Programming_ade9354e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SoalNomor5",
+            "request": "launch",
+            "mainClass": "UjianUpm.SoalNomor5",
+            "projectName": "Exercise-Logic-Programming_ade9354e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SoalNomor1",
+            "request": "launch",
+            "mainClass": "UjianUpm.SoalNomor1",
+            "projectName": "Exercise-Logic-Programming_ade9354e"
+        },
+        {
+            "type": "java",
+            "name": "Launch gui",
+            "request": "launch",
+            "mainClass": "Learn_Java_GUI.gui",
+            "projectName": "Exercise-Logic-Programming_ade9354e"
+        }
+    ]
+}
