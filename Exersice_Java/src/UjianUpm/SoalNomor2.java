@@ -16,6 +16,6 @@ public class SoalNomor2 {
                }
                i++;
             } while (i<=data);
-        }
-     }
-}
+        } 
+     } 
+} scanner.close();
