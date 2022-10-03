@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BintangPyramid",
+            "request": "launch",
+            "mainClass": "Bintang_Pyramid.BintangPyramid",
+            "projectName": "Exercise-Logic-Programming_ade9354e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuhuCase",
+            "request": "launch",
+            "mainClass": "converSuhu.SuhuCase",
+            "projectName": "Exercise-Logic-Programming_ade9354e"
+        },
+        {
+            "type": "java",
             "name": "Launch SoalNomor2",
             "request": "launch",
             "mainClass": "UjianUpm.SoalNomor2",
