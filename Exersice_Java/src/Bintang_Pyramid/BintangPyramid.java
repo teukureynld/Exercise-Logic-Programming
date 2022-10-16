@@ -16,13 +16,14 @@ public class BintangPyramid {
         // untuk perulangan n (baris) inputan
         for(int rows = 1; rows <= n; rows++ ) {
             // ini perulangan untuk spasi baris dan kolom
-            for(int coloumn = 1; coloumn <= n-rows; coloumn++) {
+            for(int coloumn = 1; coloumn <= n-rows; --coloumn) {
                 System.out.print(" ");
             }
             // cetak bintang
             for(int star = 1; star <= rows; star++ ) {
                 System.out.println("*");
             }
+            
         }
         input.close();
     }
