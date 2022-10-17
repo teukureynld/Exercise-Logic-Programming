@@ -6,7 +6,7 @@ public class BelajarTryCatch {
         // !!! NOTE 
         // !! tidak bisa memakai inisial tipe data, 
         // !! harus memakai kata kunci var
-        
+
          var a = 10;
          var b = 0;
         // tidak bisa di bagi dalam hukum aritmatika
