@@ -20,7 +20,7 @@ public class BintangPyramid {
                 System.out.print(" ");
             }
             // cetak bintang
-            for(int star = 1; star <= rows; star++ ) {
+            for(int star = 1; star <= rows; star++ ) { 
                 System.out.println("*");
             }
             
